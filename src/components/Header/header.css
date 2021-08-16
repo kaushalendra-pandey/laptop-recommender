@@ -1,0 +1,11 @@
+h1 {
+    align-items: center;
+    font-size: 60px;
+    color: indigo;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 600;
+    color: brown;
+}

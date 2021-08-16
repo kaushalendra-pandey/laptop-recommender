@@ -1,0 +1,34 @@
+.select-tabs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.single-tab {
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 8px;
+    border: black;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.single-tab:hover{
+    zoom: 1.1;
+    cursor: pointer;
+}
+
+.normal-use{
+    background: aqua;
+}
+
+
+.gaming-use{
+    background: greenyellow;
+}
+
+
+.high-end-use {
+    background: hotpink;
+}
