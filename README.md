@@ -1,3 +1,7 @@
+# ABOUT LAPTOP RECOMMENDER:
+
+This app will tell you about the best laptop present in the market depending on your need along with the link. So kinda one stop destination.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
